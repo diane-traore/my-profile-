@@ -1,0 +1,8 @@
+<HTML>
+<HEAD>
+<TITLE>Ma page</TITLE>
+</HEAD>
+<BODY>
+<P>bonjour</P>
+</BODY>
+</HTML>
